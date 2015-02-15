@@ -1,2 +1,2 @@
 # tw-themes
-16color and 256color, light and dark heme files for taskwarrior
+_16color and 256color, light and dark theme files for taskwarrior_
