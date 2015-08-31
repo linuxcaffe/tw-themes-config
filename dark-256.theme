@@ -35,7 +35,7 @@
 #
 ###############################################################################
 
-rule.precedence.color=deleted,completed,active,keyword.,tag.,uda.,project.,overdue,scheduled,due.today,due,blocked,blocking,recurring,tagged,pri.
+rule.precedence.color=deleted,completed,active,keyword.,tag.,uda.,project.,scheduled,overdue,due.today,due,blocked,blocking,recurring,tagged,pri.
 
 # basics
 color.active=bold yellow
@@ -68,8 +68,9 @@ color.uda.X=
 # interface
 color.alternate=on gray1
 color.header=color0 on gray11
-color.label=inverse
-color.footnote=on gray5
+color.label=gray0 on gray15
+color.label.sort=gray2 on gray21
+color.footnote=on gray6
 
 # burndown report
 color.burndown.pending=rgb000 on rgb010 
