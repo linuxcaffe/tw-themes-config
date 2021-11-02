@@ -78,8 +78,8 @@ color.burndown.started=rgb000 on bright yellow
 color.burndown.done=rgb000 on rgb020
 
 # calendar
-color.calendar.holiday=bold yellow
-color.calendar.today=bold white
+color.calendar.holiday=cyan
+color.calendar.today=bold yellow
 color.calendar.due.today=on rgb020
 color.calendar.due=on rgb010
 color.calendar.overdue=on rgb100
